@@ -1,0 +1,7 @@
+{
+  "name": "papeleo",
+  "short_name": "papeleo",
+  "description": "Gestiones con la Administración... Hecho fácil",
+  "start_url": "/",
+  "display": "standalone"
+}
