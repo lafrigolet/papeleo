@@ -2,6 +2,17 @@
 
 Gestiones con la Administración... Hecho fácil
 
+#############################
+# Bootstrap
+#############################
+To build bootstrap dist go to bower_components/bootstrap and run command grunt dist
+
+
+
+#############################
+# Polymer
+#############################
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
